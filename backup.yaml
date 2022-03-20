@@ -1,0 +1,41 @@
+points:
+  zones:
+    matrix:
+      columns:
+        pinky:
+          rows:
+            bottom:
+            middle:
+            top:
+        ring:
+          stagger: 5
+          rows:
+            bottom:
+            middle:
+            top:
+        middle:
+          rows:
+            bottom:
+            middle:
+            top:
+        index:
+          rows:
+            bottom:
+            middle:
+            top:
+        index_far:
+          rows:
+            bottom:
+            middle:
+            top:
+    thumbcluster:
+      anchor:
+        shift: [70, -19]
+      columns:
+        left:
+          spread: 0
+          rotate: 5
+        right:
+          spread: 25
+          rotate: -20
+  rotate: -20
