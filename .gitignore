@@ -118,3 +118,6 @@ dist
 # Project specific
 output
 temp*
+.test.yaml
+.test/
+keeb/*
